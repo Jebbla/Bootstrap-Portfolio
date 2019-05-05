@@ -1,0 +1,58 @@
+<div id="main-container" class="container">
+  <section class="main-section">
+    <h1>Portfolio</h1>
+
+    <div class="work">
+      <img src="assets/images/technics-q-c-640-480-1.jpg" alt="Word Guess">
+      </a>
+      <h3>Word Guess</h3>
+    </div>
+
+    <div class="work">
+      <img src="assets/images/technics-q-c-640-480-2.jpg" alt="RPG Game">
+      <h3>RPG Game</h3>
+    </div>
+
+    <div class="work">
+      <img src="assets/images/technics-q-c-640-480-5.jpg" alt="Trivia Game">
+      <h3>Trivia Game</h3>
+    </div>
+
+    <div class="work">
+      <img src="assets/images/technics-q-c-640-480-7.jpg" alt="Info Widget">
+      <h3>Info Widget</h3>
+    </div>
+
+    <div class="work">
+      <img src="assets/images/technics-q-c-640-480-9.jpg" alt="Rock Paper Scissors">
+      <h3>Rock Paper Scissors</h3>
+    </div>
+
+      
+      </div>
+
+    </section>
+      
+
+            <div class="col-md-3">
+            <div class="panel panel-primary" id="sidebar">
+                        
+                <div class="panel-heading">
+                    <h3 class="panel-title">Connect</h3>
+                </div>
+                        
+                <div class="panel-body">
+                    <div class="row">
+                    
+                    
+                        <div class="col-md-4">
+                            <a href="https://www.linkedin.com/in/jessica-lapage-718b8157?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2chZH6Q3TESQYN3LOlHHMw%3D%3D" target="_blank" class="thumbnail"><img src="" alt="LinkedIn" class="img-responsive social"></a>
+                        </div>
+                    
+                        <div class="col-md-4">
+                            <a href="https://github.com/Jebbla" target="_blank" class="thumbnail"><img src="" alt="GitHub" class="img-responsive-social"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
